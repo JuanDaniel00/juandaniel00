@@ -1,4 +1,4 @@
-![image](https://github.com/JuanDaniel00/juandaniel00/assets/100632342/c10745bf-df84-4280-819b-53ee4d39f8cd)# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ## About Me
 
