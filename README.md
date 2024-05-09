@@ -28,14 +28,12 @@ En 2022 tuve el honor de formar parte del top 10 de proyectos a nivel nacional e
   - Repositorio: [https://juandaniel00.github.io/pagina-feria-de-universidades/]
 
 ## Stats
-<div aling="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDaniel00&show_icons=true&theme=bear"/> 
 </div>
 
-
-
 ## Languages 
-<div aling="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDaniel00&layout=compact&theme=bear"/> 
 </div>
 
