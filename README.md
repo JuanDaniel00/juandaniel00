@@ -29,7 +29,6 @@ En 2022 tuve el honor de formar parte del top 10 de proyectos a nivel nacional e
 
 ## Stats
 <div aling="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDaniel00&show_icons=true&theme=bear"/> 
 </a>
 </div>
@@ -38,7 +37,6 @@ En 2022 tuve el honor de formar parte del top 10 de proyectos a nivel nacional e
 
 ## Languages 
 <div aling="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDaniel00&layout=compact&theme=bear"/> 
 </a>
 </div>
