@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+![image](https://github.com/JuanDaniel00/juandaniel00/assets/100632342/c10745bf-df84-4280-819b-53ee4d39f8cd)# Welcome to My GitHub Profile!
 
 ## About Me
 
@@ -28,16 +28,20 @@ En 2022 tuve el honor de formar parte del top 10 de proyectos a nivel nacional e
   - Repositorio: [https://juandaniel00.github.io/pagina-feria-de-universidades/]
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats" aling="center">
+<div aling="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDaniel00&show_icons=true&theme=bear"/> 
 </a>
+</div>
+
 
 
 ## Languages 
-
-<a href="https://github.com/anuraghazra/github-readme-stats" aling="center">
+<div aling="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDaniel00&layout=compact&theme=bear"/> 
 </a>
+</div>
 
 ## Education
 
