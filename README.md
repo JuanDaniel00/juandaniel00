@@ -2,16 +2,16 @@
 
 ## About Me
 
-¡Hola! Mi nombre es Juan Daniel Uribe Pérez. Soy estudiante en etapa lectiva en el SENA y tengo experiencia trabajando en ambientes de equipo. Obtuve un título como técnico en Sistemas del colegio San Jose de Guanenta.
+¡Hola! Mi nombre es Juan Daniel Uribe Pérez. Soy estudiante en etapa lectiva en el SENA y tengo experiencia trabajando en ambientes de equipo.
 
-Recientemente, tuve el honor de formar parte del top 10 de proyectos a nivel nacional en el concurso de Fedesoft en 2022. En este proyecto, fui el encargado principal de la base de datos y los estilos del registro de un sistema que ayudaba a reportar casos de violencia intrafamiliar.
+En 2022 tuve el honor de formar parte del top 10 de proyectos a nivel nacional en el concurso de Fedesoft. En este proyecto, fui el encargado principal de la base de datos y los estilos del registro de un sistema que ayudaba a reportar casos de violencia intrafamiliar.
 
 ## Projects
 
 - **Sistema de regitro de violencia intrafamiliar (SVI):**
 
   - Descripción:
-    - Sistema de registro y seguimiendo de violencia intrafamiliar (SVI), servirá a los Sangileños, respetando el derecho a la privacidad, como herramienta tecnológica para que puedan registrar y seguir la violencia intrafamiliar. Y que sirva tanto a las autoridades municipales como a los ciudadanos como herramienta para diseñar y adelantar estrategias y acciones que permitan disminuir los indices de violencias en el municipio.
+    - Sistema de registro y seguimiendo de violencia intrafamiliar (SVI), servirá a los Sangileños, como herramienta tecnológica para que puedan registrar y seguir la violencia intrafamiliar. Y que sirva tanto a las autoridades municipales como a los ciudadanos como herramienta para diseñar y adelantar estrategias y acciones que permitan disminuir los indices de violencias en el municipio.
   - Tecnologías utilizadas:
     - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, and arcgis
     - Backend: PHP
