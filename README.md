@@ -29,8 +29,8 @@ Recientemente, tuve el honor de formar parte del top 10 de proyectos a nivel nac
 
 ## Skills
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JuanDaniel00=anuraghazra_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JuanDaniel00=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJuanDaniel00=anuraghazra_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/JuanDaniel00=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 
