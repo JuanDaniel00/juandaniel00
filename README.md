@@ -10,7 +10,8 @@ Recientemente, tuve el honor de formar parte del top 10 de proyectos a nivel nac
 
 - **Sistema de regitro de violencia intrafamiliar (SVI):**
 
-  - Descripción: Sistema de registro y seguimiendo de violencia intrafamiliar (SVI), servirá a los Sangileños, respetando el derecho a la privacidad, como herramienta tecnológica para que puedan registrar y seguir la violencia intrafamiliar. Y que sirva tanto a las autoridades municipales como a los ciudadanos como herramienta para diseñar y adelantar estrategias y acciones que permitan disminuir los indices de violencias en el municipio.
+  - Descripción:
+    - Sistema de registro y seguimiendo de violencia intrafamiliar (SVI), servirá a los Sangileños, respetando el derecho a la privacidad, como herramienta tecnológica para que puedan registrar y seguir la violencia intrafamiliar. Y que sirva tanto a las autoridades municipales como a los ciudadanos como herramienta para diseñar y adelantar estrategias y acciones que permitan disminuir los indices de violencias en el municipio.
   - Tecnologías utilizadas:
     - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, and arcgis
     - Backend: PHP
@@ -18,7 +19,8 @@ Recientemente, tuve el honor de formar parte del top 10 de proyectos a nivel nac
   - Repositorio: [https://github.com/JuanDaniel00/SVI]
 
 - **Feria de universidades San Jose de Guanenta**
-  - Descripción: Facilitar el acceso a la educación superior para estudiantes de la región, a través de una feria educativa que reúne a instituciones educativas, entidades financieras y otros actores relevantes.
+  - Descripción:
+    - Facilitar el acceso a la educación superior para estudiantes de la región, a través de una feria educativa que reúne a instituciones educativas, entidades financieras y otros actores relevantes.
   - Tecnologías utilizadas:
     - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, SCSS
     - Backend: PHP
@@ -27,7 +29,8 @@ Recientemente, tuve el honor de formar parte del top 10 de proyectos a nivel nac
 
 ## Skills
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJuanDaniel00=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JuanDaniel00=anuraghazra_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JuanDaniel00=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 
