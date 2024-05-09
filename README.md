@@ -28,13 +28,16 @@ En 2022 tuve el honor de formar parte del top 10 de proyectos a nivel nacional e
   - Repositorio: [https://juandaniel00.github.io/pagina-feria-de-universidades/]
 
 ## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDaniel00&show_icons=true&theme=bear"/> 
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanDaniel00&show_icons=true&theme=bear)
 
-## Languages
+## Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDaniel00&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDaniel00&layout=compact&theme=bear"/> 
+</a>
 
 ## Education
 
