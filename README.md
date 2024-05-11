@@ -9,28 +9,6 @@ En 2022 tuve el honor de formar parte del top 10 de proyectos a nivel nacional e
   
 </div>
 
-
-## Projects
-
-- **Sistema de regitro de violencia intrafamiliar (SVI):**
-
-  - Descripción:
-    - Sistema de registro y seguimiendo de violencia intrafamiliar (SVI), servirá a los Sangileños, como herramienta tecnológica para que puedan registrar y seguir la violencia intrafamiliar. Y que sirva tanto a las autoridades municipales como a los ciudadanos como herramienta para diseñar y adelantar estrategias y acciones que permitan disminuir los indices de violencias en el municipio.
-  - Tecnologías utilizadas:
-    - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, and arcgis
-    - Backend: PHP
-    - Base de datos: phpMyAdmin
-  - Repositorio: [https://github.com/JuanDaniel00/SVI]
-
-- **Feria de universidades San Jose de Guanenta**
-  - Descripción:
-    - Facilitar el acceso a la educación superior para estudiantes de la región, a través de una feria educativa que reúne a instituciones educativas, entidades financieras y otros actores relevantes.
-  - Tecnologías utilizadas:
-    - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, SCSS
-    - Backend: PHP
-    - Base de datos: phpMyAdmin
-  - Repositorio: [https://juandaniel00.github.io/pagina-feria-de-universidades/]
-
 ## Stats
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDaniel00&show_icons=true&theme=bear"/> 
