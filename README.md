@@ -7,15 +7,6 @@ Tecnólogo en Análisis y Desarrollo de Software con sólida formación en progr
   
 </div>
 
-## Stats
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDaniel00&show_icons=true&theme=bear"/> 
-</div>
-
-## Languages 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDaniel00&layout=compact&theme=bear"/> 
-</div>
 
 ## Education
 
