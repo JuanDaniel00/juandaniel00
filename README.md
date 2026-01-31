@@ -14,6 +14,11 @@ Me interesa el diseño de sistemas, la calidad técnica del código y la constru
 
 ## Education
 
+- **Ingenieria de Software**
+
+  - Uniminuto
+  - 2026
+
 - **Técnico en Sistemas**
 
   - Colegio San Jose de Guanenta
