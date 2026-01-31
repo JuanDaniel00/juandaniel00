@@ -18,15 +18,16 @@ Me interesa el diseño de sistemas, la calidad técnica del código y la constru
 
   - Uniminuto
   - 2026
+  
+- **Tecnologo ADSO (Analisis y Desarrollo de Software)**
+  - SENA
+  - 2023 - 2025
 
 - **Técnico en Sistemas**
 
   - Colegio San Jose de Guanenta
   - 2020 - 2022
 
-- **Tecnologo ADSO (Analisis y Desarrollo de Software)**
-  - SENA
-  - 2023 - 2025
 
 ## Contact Me
 
